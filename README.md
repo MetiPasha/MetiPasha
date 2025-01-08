@@ -2,9 +2,9 @@
 
 - 🚀 I’m all about creating with code! 😎💻
   
-- 🌱 I’m currently learning **React And Typescript**
+- 🌱 I’m currently learning **next.js**
     
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript**&**TypeScrip**&**React**
   
 - 📫 How to reach me **mtipasha2021@gmail.com**
 
