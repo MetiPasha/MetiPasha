@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning **next.js**
     
-- 💬 Ask me about **JavaScript**&**TypeScrip**&**React**
+- 💬 Ask me about **JavaScript** && **TypeScrip** && **React**
   
 - 📫 How to reach me **mtipasha2021@gmail.com**
 
